@@ -1,0 +1,17 @@
+{
+  "name": "mysql1",
+  "version": "1.0.0",
+  "description": "conexao ao relacional",
+  "main": "server.js",
+  "script": {
+    "test": "echo ' Error: Banco nao especificado ' && exit 1"
+  },
+  "author": "aluno",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mysql": "^2.18.1",
+    "nodemon": "^1.18.10"
+  }
+}
